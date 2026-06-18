@@ -1,0 +1,146 @@
+[
+  {
+    "isoCode": "AF",
+    "name": "Afghanistan",
+    "phoneCode": "93",
+    "flag": "🇦🇫",
+    "currency": "AFN",
+    "latitude": "33.00000000",
+    "longitude": "65.00000000",
+    "timezones": [
+      {
+        "zoneName": "Asia/Kabul",
+        "gmtOffset": 16200,
+        "gmtOffsetName": "UTC+04:30",
+        "abbreviation": "AFT",
+        "tzName": "Afghanistan Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "AX",
+    "name": "Aland Islands",
+    "phoneCode": "+358-18",
+    "flag": "🇦🇽",
+    "currency": "EUR",
+    "latitude": "60.11666700",
+    "longitude": "19.90000000",
+    "timezones": [
+      {
+        "zoneName": "Europe/Mariehamn",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "AL",
+    "name": "Albania",
+    "phoneCode": "355",
+    "flag": "🇦🇱",
+    "currency": "ALL",
+    "latitude": "41.00000000",
+    "longitude": "20.00000000",
+    "timezones": [
+      {
+        "zoneName": "Europe/Tirane",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "DZ",
+    "name": "Algeria",
+    "phoneCode": "213",
+    "flag": "🇩🇿",
+    "currency": "DZD",
+    "latitude": "28.00000000",
+    "longitude": "3.00000000",
+    "timezones": [
+      {
+        "zoneName": "Africa/Algiers",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "AS",
+    "name": "American Samoa",
+    "phoneCode": "+1-684",
+    "flag": "🇦🇸",
+    "currency": "USD",
+    "latitude": "-14.33333333",
+    "longitude": "-170.00000000",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Pago_Pago",
+        "gmtOffset": -39600,
+        "gmtOffsetName": "UTC-11:00",
+        "abbreviation": "SST",
+        "tzName": "Samoa Standard Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "AD",
+    "name": "Andorra",
+    "phoneCode": "376",
+    "flag": "🇦🇩",
+    "currency": "EUR",
+    "latitude": "42.50000000",
+    "longitude": "1.50000000",
+    "timezones": [
+      {
+        "zoneName": "Europe/Andorra",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "AO",
+    "name": "Angola",
+    "phoneCode": "244",
+    "flag": "🇦🇴",
+    "currency": "AOA",
+    "latitude": "-12.50000000",
+    "longitude": "18.50000000",
+    "timezones": [
+      {
+        "zoneName": "Africa/Luanda",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "EG",
+    "name": "Egypt",
+    "phoneCode": "20",
+    "flag": "🇪🇬",
+    "currency": "EGP",
+    "latitude": "27.00000000",
+    "longitude": "30.00000000",
+    "timezones": [
+      {
+        "zoneName": "Africa/Cairo",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ]
+  }
+]

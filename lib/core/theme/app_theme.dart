@@ -70,6 +70,11 @@ abstract class AppTheme {
         fontSize: 13.sp,
         color: AppColors.whiteColor,
       ),
+      headlineSmall: TextStyle(
+        fontWeight: .w500,
+        fontSize: 20.sp,
+        color: AppColors.blackColor,
+      ),
     ),
     switchTheme: SwitchThemeData(
       thumbColor: WidgetStateProperty.resolveWith<Color?>((states) {
